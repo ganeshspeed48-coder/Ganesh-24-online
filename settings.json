@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "school_fun.aternos.me",
-    "port": 1624,
+    "port": 11624,
     "version": "1.20.1",
     "try-creative": false
   },
